@@ -1,0 +1,10 @@
+﻿
+namespace AdxReplicationDemo.Data.Abstractions
+{
+    public sealed class DatabaseSettings
+    {
+        public const string SectionName = "Database";
+
+        public string ConnectionString { get; set; } = string.Empty;
+    }
+}

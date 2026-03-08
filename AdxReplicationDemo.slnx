@@ -1,0 +1,11 @@
+<Solution>
+  <Folder Name="/src/">
+    <Project Path="src/AdxReplicationDemo.Contracts/AdxReplicationDemo.Contracts.csproj" />
+    <Project Path="src/AdxReplicationDemo.Data/AdxReplicationDemo.Data.csproj" />
+    <Project Path="src/AdxReplicationDemo.Host/AdxReplicationDemo.Host.csproj" />
+    <Project Path="src/AdxReplicationDemo.Logic/AdxReplicationDemo.Logic.csproj" />
+  </Folder>
+  <Folder Name="/tests/">
+    <Project Path="tests/AdxReplicationDemo.Tests/AdxReplicationDemo.Tests.csproj" />
+  </Folder>
+</Solution>

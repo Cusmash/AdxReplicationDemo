@@ -1,0 +1,15 @@
+<Project Sdk="Microsoft.NET.Sdk.Web">
+
+  <ItemGroup>
+    <ProjectReference Include="..\AdxReplicationDemo.Contracts\AdxReplicationDemo.Contracts.csproj" />
+    <ProjectReference Include="..\AdxReplicationDemo.Data\AdxReplicationDemo.Data.csproj" />
+    <ProjectReference Include="..\AdxReplicationDemo.Logic\AdxReplicationDemo.Logic.csproj" />
+  </ItemGroup>
+
+  <PropertyGroup>
+    <TargetFramework>net8.0</TargetFramework>
+    <Nullable>enable</Nullable>
+    <ImplicitUsings>enable</ImplicitUsings>
+  </PropertyGroup>
+
+</Project>
